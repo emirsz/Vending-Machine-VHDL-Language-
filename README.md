@@ -20,8 +20,3 @@ dispense (4-bit) → Verilen ürün kodu.
 change (2-bit) → Para üstü:
 "01" → 25 kuruş
 "10" → 50 kuruş
-
-🚀 Çalıştırma
-Vivado'yu açın ve yeni bir proje oluşturun.
-VendingMachine.vhd dosyasını ekleyin.
-Simulation (Simülasyon) çalıştırarak devrenin davranışını test edin.
