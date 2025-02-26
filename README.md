@@ -24,5 +24,4 @@ change (2-bit) → Para üstü:
 🚀 Çalıştırma
 Vivado'yu açın ve yeni bir proje oluşturun.
 VendingMachine.vhd dosyasını ekleyin.
-Test amaçlı bir test bench oluşturun.
 Simulation (Simülasyon) çalıştırarak devrenin davranışını test edin.
