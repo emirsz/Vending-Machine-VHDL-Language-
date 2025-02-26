@@ -1,0 +1,4 @@
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/Users/Emir/Desktop/emirsoylemezvhdl/otomatv2/otomatv2.srcs/sources_1/new/VendingMachine.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'VendingMachine'
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/Users/Emir/Desktop/emirsoylemezvhdl/otomatv2/otomatv2.srcs/sim_1/new/VendingMachine_tb.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'VendingMachine_tb'
