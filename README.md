@@ -14,11 +14,13 @@ button (3-bit) → Kullanıcının seçtiği ürün:
 "010" → 75 kuruş (Ürün B)
 "011" → 1 lira (Ürün C)
 "100" → 1 lira (Ürün D)
+
 📤 Çıkışlar
 dispense (4-bit) → Verilen ürün kodu.
 change (2-bit) → Para üstü:
 "01" → 25 kuruş
 "10" → 50 kuruş
+
 🚀 Çalıştırma
 Vivado'yu açın ve yeni bir proje oluşturun.
 VendingMachine.vhd dosyasını ekleyin.
